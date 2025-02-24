@@ -1,4 +1,4 @@
-    <?php
+<?php
     class Minsercion {
         private $conexion;
 
@@ -35,3 +35,4 @@
             return true;
         }
     }
+?>
